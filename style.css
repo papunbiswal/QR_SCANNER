@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(202, 220, 235);
+    text-align: center;
+}
+.center{
+    height: 370px;
+    width: 15%;
+    background-color: white;
+    padding: 20px;
+    margin: 100px;
+    margin-left: 600px;
+    border-radius: 15px;
+    
+}
+img{
+    height: 15rem;
+    width: 15rem;
+    display: block;
+    margin-left: -0.4rem;
+    margin-top: -0.5rem;
+
+    border-radius: 10px;
+}
+
+
+p{
+   height: 10px;
+   width: 170px;
+    margin: 1rem 2rem 1rem;
+    font-family: sans-serif;
+}
+strong{
+    font-size: 13px;
+}
+.last{
+    height: 10%;
+    width: 250px;
+    font-family: Bookman Old Style;
+    font-size: 13px;
+    margin-left: -0.5rem;
+    margin-top: 3rem;
+    color: gray;
+}
